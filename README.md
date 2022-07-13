@@ -1,0 +1,2 @@
+# risx
+Yardım 
